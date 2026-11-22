@@ -1,23 +1,149 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="vFy3zw9w5jWLbCx2s_76">
-    <mxGraphModel dx="746" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0qT85t2Vxh5jMHYnqlsc-1" parent="1" style="shape=rect;html=1;whiteSpace=wrap;align=center;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Parent" vertex="1">
-          <mxGeometry height="60" width="120" x="204" y="60" as="geometry" />
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-13" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="-80" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="0qT85t2Vxh5jMHYnqlsc-2" parent="1" style="shape=rect;html=1;whiteSpace=wrap;align=center;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Child1" vertex="1">
-          <mxGeometry height="60" width="120" x="114" y="180" as="geometry" />
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-14" parent="hlACV-5GdDYTAK1BIqmU-13" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
         </mxCell>
-        <mxCell id="0qT85t2Vxh5jMHYnqlsc-3" parent="1" style="shape=rect;html=1;whiteSpace=wrap;align=center;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Child2" vertex="1">
-          <mxGeometry height="60" width="120" x="294" y="180" as="geometry" />
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-15" parent="hlACV-5GdDYTAK1BIqmU-13" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1;fontSize=10;" value="Integrated Patient Monitoring Platforrm" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
         </mxCell>
-        <mxCell id="0qT85t2Vxh5jMHYnqlsc-4" edge="1" parent="1" source="0qT85t2Vxh5jMHYnqlsc-1" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;" target="0qT85t2Vxh5jMHYnqlsc-2" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-16" parent="hlACV-5GdDYTAK1BIqmU-13" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
         </mxCell>
-        <mxCell id="0qT85t2Vxh5jMHYnqlsc-5" edge="1" parent="1" source="0qT85t2Vxh5jMHYnqlsc-1" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;" target="0qT85t2Vxh5jMHYnqlsc-3" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-17" parent="hlACV-5GdDYTAK1BIqmU-13" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="text=&quot;The system shall do&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-18" parent="hlACV-5GdDYTAK1BIqmU-13" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="Id=&quot;HLR-01&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-19" parent="hlACV-5GdDYTAK1BIqmU-13" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="26" width="200" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-20" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;fontSize=10;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="280" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-21" parent="hlACV-5GdDYTAK1BIqmU-20" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-22" parent="hlACV-5GdDYTAK1BIqmU-20" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1;fontSize=10;" value="AI-Enabled Adaptive Patient Monitoring and Prediction System" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-23" parent="hlACV-5GdDYTAK1BIqmU-20" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-24" parent="hlACV-5GdDYTAK1BIqmU-20" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="text=&quot;The system shall do&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-25" parent="hlACV-5GdDYTAK1BIqmU-20" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="Id=&quot;HLR-00&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-26" parent="hlACV-5GdDYTAK1BIqmU-20" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="26" width="200" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-35" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;gradientColor=none;fontSize=10;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="634" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-36" parent="hlACV-5GdDYTAK1BIqmU-35" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-37" parent="hlACV-5GdDYTAK1BIqmU-35" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1" value="Adaptive System Behaviour" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-38" parent="hlACV-5GdDYTAK1BIqmU-35" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-39" parent="hlACV-5GdDYTAK1BIqmU-35" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="text=&quot;The system shall do&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-40" parent="hlACV-5GdDYTAK1BIqmU-35" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="Id=&quot;HLR-04&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-41" parent="hlACV-5GdDYTAK1BIqmU-35" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="26" width="200" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-42" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-43" parent="hlACV-5GdDYTAK1BIqmU-42" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-44" parent="hlACV-5GdDYTAK1BIqmU-42" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1;fontSize=10;" value="Professional Decision Making and Human Oversight" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-45" parent="hlACV-5GdDYTAK1BIqmU-42" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelPerimeter=1;fontSize=12;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-46" parent="hlACV-5GdDYTAK1BIqmU-42" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="text=&quot;The system shall do&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-47" parent="hlACV-5GdDYTAK1BIqmU-42" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="Id=&quot;HLR-03&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-48" parent="hlACV-5GdDYTAK1BIqmU-42" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="26" width="200" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-49" parent="1" style="fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="200" x="150" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-50" parent="hlACV-5GdDYTAK1BIqmU-49" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingTop=3;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="16" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-51" parent="hlACV-5GdDYTAK1BIqmU-49" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;fontStyle=1;fontSize=10;" value="AI-Supported Monitoring and Prediction&amp;nbsp;" vertex="1">
+          <mxGeometry height="18" width="200" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-52" parent="hlACV-5GdDYTAK1BIqmU-49" style="line;strokeWidth=0.25;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-53" parent="hlACV-5GdDYTAK1BIqmU-49" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="text=&quot;The system shall do&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-54" parent="hlACV-5GdDYTAK1BIqmU-49" style="html=1;align=left;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;spacingLeft=10;" value="Id=&quot;HLR-02&quot;" vertex="1">
+          <mxGeometry height="16" width="200" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-55" parent="hlACV-5GdDYTAK1BIqmU-49" style="html=1;align=center;spacing=0;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="26" width="200" y="74" as="geometry" />
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-62" edge="1" parent="1" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;curved=1;endFill=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="375" y="110" as="sourcePoint" />
+            <mxPoint x="375" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-63" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="160" as="sourcePoint" />
+            <mxPoint x="740" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-64" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1" y="180" as="sourcePoint" />
+            <mxPoint x="-1" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-66" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="249.5" y="180" as="sourcePoint" />
+            <mxPoint x="249.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-67" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="180" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hlACV-5GdDYTAK1BIqmU-68" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="740" y="180" as="sourcePoint" />
+            <mxPoint x="740" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
