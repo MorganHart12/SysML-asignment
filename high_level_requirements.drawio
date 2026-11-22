@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="vFy3zw9w5jWLbCx2s_76">
+    <mxGraphModel dx="746" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0qT85t2Vxh5jMHYnqlsc-1" parent="1" style="shape=rect;html=1;whiteSpace=wrap;align=center;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Parent" vertex="1">
+          <mxGeometry height="60" width="120" x="204" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0qT85t2Vxh5jMHYnqlsc-2" parent="1" style="shape=rect;html=1;whiteSpace=wrap;align=center;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Child1" vertex="1">
+          <mxGeometry height="60" width="120" x="114" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0qT85t2Vxh5jMHYnqlsc-3" parent="1" style="shape=rect;html=1;whiteSpace=wrap;align=center;" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&#xa;Child2" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0qT85t2Vxh5jMHYnqlsc-4" edge="1" parent="1" source="0qT85t2Vxh5jMHYnqlsc-1" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;" target="0qT85t2Vxh5jMHYnqlsc-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qT85t2Vxh5jMHYnqlsc-5" edge="1" parent="1" source="0qT85t2Vxh5jMHYnqlsc-1" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;" target="0qT85t2Vxh5jMHYnqlsc-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
